@@ -6,4 +6,6 @@ My solutions for LeetCode (C++).
 | ----------------------------- | --------------- | ---------------- | ------------------ |
 | Intersection of Two Arrays II | O(n)            | O(n^2)           | 14.71              |
 | Plus One                      | O(n)            | O(1)             | 60                 |
-|                               |                 |                  |                    |
+| FizzBuzz                      | O(n)            | O(1)             | 97.05              |
+| Remove Zeroes                 | O(n)            | O(1)             | 7.37               |
+| Maximum Depth of Binary Tree  | O(n)            | O(1)             | 71.63              |
